@@ -1,0 +1,5 @@
+* Ignorar todos os arquivos das pastas abaixo:
+Arquivos
+Win32
+Win64
+__history
