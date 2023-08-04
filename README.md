@@ -1,52 +1,47 @@
-# DelphiCampanhaAnoAAno
+# Acompanhamento Ano a Ano - Informações gerais
 
-===========================================================
- CAMPANHA DO SEU CLUBE ANO A ANO - VERSÃO 9.7 - FEV/2022
-===========================================================
+A idealização deste software foi inspirada na minha vontade de reunir em um único ambiente todos os dados estatísticos referente ao meu Time do Coração. Meu apreço pelo futebol, mais especificamente pelo Fluminene F.C., aliado a minha vontade, fez com que eu desse início ao projeto que levou cerca de cinco meses para ser concluído. O software foi desenvolvido na mais nova versão do Delphi (XE7) e utiliza um banco de dados seguro, estável e confiável (MySQL). Seu gerenciamento consiste basicamente em quatro etapas: cadastro do Seu Time do Coração; cadastro dos jogadores de seu time; cadastro dos clubes adversários e cadastro dos jogos, necessariamente nesta ordem. Vale destacar que o software permite o gerenciamento de um único Clube do Coração. A partir daí são inúmeros relatórios estatísticos disponíveis para você acompanhar a trajetória de seu clube na temporada. Torcedores mais fanáticos (como eu) certamente vão cadastrar todos os confrontos do seu clube desde sua fundação. Quer saber quantas partidas o seu time disputou contra o seu rival? Qual jogador encabeça a lista de artilheiros do seu clube? Quem mais treinou o seu time? Quem mais jogou? Quem tomou mais cartões na história? Este software responde a todas essas perguntas e muito mais.
 
-Developed by: FREDERICO ZANITTI SILVA
-Access: http://www.zanitti.com.br
+## Prints do software
 
-WARNING: BEFORE ISTALLING THE SOFTWARE CAMPANHA ANO A ANO
-		 IT MUST BE INTALLED MSQL DATABASE
-		 THE DATABASE CAN BE DONWLOADED THROUGH THE LINK BELOW
-		 http://dev.mysql.com/downloads/installer/
+### Tela de abertura
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_splash.jpg)
 
+### Tela Inicial
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_telainicial.jpg)
 
+### Cadastro de Jogos
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_cadastrojogos.jpg)
 
-Requirements: 	- SO Windows XP/7/8/10
-				- Intallation of mysql-installer-community-5.7.10.0
-				- Video resolution of 1024x768
+### Cadastro de Jogadores
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_cadastrojogadores.jpg)
 
+### Cadastro de Clubes
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_cadastroclubes.jpg)
 
-IMPROVIMENTS (  VERSION 9.3 JUN/2021  )
----------------------------------------------------------------------------------------------------------------
-- Adjustment to be possible to inform the observations on the game registration;
-- Adjustment to inform which player scored while inserting  the game registration;
-- The scored registration feeds automatically the table of the starting and substituting players;
-- Adjustment of the main screen layout;
-- Adjustment to improve the count of national and international awards;
-- Including the category "Regional" among the type of the competition;
-- Including the report about the scorers by competition;
-- Including the table ca_contin (Continents);
-- Updating the table of the countries including the acronyms FIFA, COI, ISO2, ISO3, Numeric ISO, and Continent;
-- Filtering of clubs by continent;
+### Resumo das Temporadas
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_resumodatemporada.jpg)
 
-IMPROVIMENTS (  VERSION 9.4 JUL/2021  )
----------------------------------------------------------------------------------------------------------------
-- Register of the Federations (UEFA, CONMEBOL, CAF, AFC, CONCACAF, and OFC);
-- Relation of the Federations with the club registration;
+### Súmula dos Jogos
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_sumuladojogo.jpg)
 
-IMPROVIMENTS (  VERSION 9.5 AUG/2021  )
----------------------------------------------------------------------------------------------------------------
-- Information about active player on the player research screen;
+### Estatísticas dos Jogadores
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_estatisticasdoatleta.jpg)
 
-IMPROVIMENTS (  VERSION 9.7 FEB/2022  )
----------------------------------------------------------------------------------------------------------------
-- Adjustment to show the period in years/months/days in the general statistics;
+### Estatísticas por Adversário
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_estatisticasporadversario.jpg)
 
+### Relatórios Diversos
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_diversosrelatorios.jpg)
 
-========
-WARNING:
-========
-  The product support is exclusivally by email.
+### Filtro de Jogos
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_filtrodejogos.jpg)
+
+### Resumo dos Títulos Conquistados
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_estatisticasdetitulos.jpg)
+
+### Relatórios Específicos
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_relatoriosespecificos.jpg)
+
+### Sobre
+![Campanha Ano a Ano](https://zanitti.com.br/imagens/AnoAAno_sobre.jpg)
